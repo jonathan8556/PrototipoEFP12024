@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1717000360 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1717000360 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1716998876 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\seguridad.cpp
+	"seguridad.h"
+
+1716998876 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\seguridad.h
+
+1717000050 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\altas.cpp
+	"Altas.h"
+
+1717000050 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\altas.h
+
+1717000068 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\bajas.cpp
+	"Bajas.h"
+
+1717000068 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\bajas.h
+
+1717000118 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\consultas.cpp
+	"Consultas.h"
+
+1717000118 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\consultas.h
+
+1717000360 source:c:\users\pc\documents\proyectos git hub\prototipoefp12024\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1717000360 c:\users\pc\documents\proyectos git hub\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
